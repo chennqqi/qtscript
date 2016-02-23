@@ -1,0 +1,2 @@
+# qtscript
+some qmake scripts
